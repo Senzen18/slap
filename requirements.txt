@@ -1,4 +1,4 @@
-flask
+fastapi
 numpy==1.19.3
 sklearn
 scipy
