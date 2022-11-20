@@ -5,3 +5,4 @@ scipy
 spacy
 flask_session
 uvicorn
+gunicorn
